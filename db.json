@@ -1,0 +1,377 @@
+{
+  "advertisements": [
+    {
+      "id": "1",
+      "name": "Стул старинный",
+      "description": "Очень красивый",
+      "price": 2000,
+      "createdAt": "2022-08-12T20:16:55.351Z",
+      "views": 20,
+      "likes": 2,
+      "imageUrl": "https://10.img.avito.st/image/1/1.7paSP7a4Qn-kiMBywhzq-7yeQHksnsBppJNAfSKWSnUk.Cu51fGPFWuLy4EyUNVsc7hluhhr_7cYW69jAb2aE-e4"
+    },
+    {
+      "id": "2",
+      "name": "Ведро снега",
+      "description": "Последняя возможность купить по выгодной цене!",
+      "price": 3000,
+      "createdAt": "2023-08-12T20:16:55.351Z",
+      "views": 77832,
+      "likes": 45666,
+      "imageUrl": "https://10.img.avito.st/image/1/1.uLei7La5FF6URdZb3s7WlgZPElQWzxycE08WWh5FHlw.aodZdlDSKwWU8oOx5kEjBgc69PXp39aU3J1JZZgkCUA"
+    },
+    {
+      "id": "3",
+      "name": "Плащ невидимка",
+      "price": 10000000,
+      "createdAt": "2024-08-12T20:16:55.351Z",
+      "views": 900,
+      "likes": 19,
+      "imageUrl": ""
+    },
+    {
+      "id": "4",
+      "name": "Ковер",
+      "description": "Стильный модный, как у бабушки в деревне :)))",
+      "price": 5000,
+      "createdAt": "2024-07-12T20:16:55.351Z",
+      "views": 2000000,
+      "likes": 2,
+      "imageUrl": "https://30.img.avito.st/image/1/1.6ktq3ra4RqJcacSvMuGzM2F8RKTUf8S0XHJEoNp3Tqjc.e8JGMc9guYaR2e4cnEnJC9XYJlfxDnG1Z4NZMlTtRtA"
+    },
+    {
+      "id": "5",
+      "name": "Носки",
+      "price": 6000,
+      "createdAt": "2024-06-12T20:16:55.351Z",
+      "views": 0,
+      "likes": 0,
+      "imageUrl": "https://40.img.avito.st/image/1/1.1G1QGra4eIRmrfqJdHX-Una7eoLuu_qSZrZ6huCzcI7m._yy0QSUD--GNYzEyBdsiDhqaZqVdthm_C5WmmC-8evU"
+    },
+    {
+      "id": "6",
+      "name": "Картонная коробка",
+      "description": "Прочная",
+      "price": 7000,
+      "createdAt": "2024-04-12T20:16:55.351Z",
+      "views": 1,
+      "likes": 0,
+      "imageUrl": "https://10.img.avito.st/image/1/1.tyvHQ7a4G8Lx9JnPpVWXDOHiGcR54pnU8e8ZwHfqE8hx.0mM7WQcRQ1wtS5wVcEJ_w2xx-WxPybsLLk4GK3jUZ5k"
+    },
+    {
+      "id": "7",
+      "name": "Угловой диван",
+      "description": "Стих для привлечения внимания: дама сдавала в багаж диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. выдали даме на станции четыре зеленых квитанции о том, что получен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. вещи везут на перрон. кидают в открытый вагон. готово. уложен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. но только раздался звонок, удрал из вагона щенок. хватились на станции дно: потеряно место одно. в испуге считают багаж: диван, чемодан, саквояж, картина, корзина, картонка… — товарищи! где собачонка? вдруг видят: стоит у колес огромный взъерошенный пес. поймали его — и в багаж, туда, где лежал саквояж, картина, корзина, картонка, где прежде была собачонка. приехали в город житомир. носильщик пятнадцатый номер везет на тележке багаж: диван, чемодан, саквояж, картину, корзину, картонку, а сзади ведут собачонку. собака-то как зарычит, а барыня как закричит: — разбойники! воры! уроды! собака — не той породы! швырнула она чемодан, ногой отпихнула диван, картину, корзину, картонку… — отдайте мою собачонку! — позвольте, мамаша! на станции, согласно багажной квитанции, от вас получили багаж: диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. однако за время пути собака могла подрасти!",
+      "price": 999,
+      "createdAt": "2024-08-12T14:16:55.351Z",
+      "views": 20000,
+      "likes": 1,
+      "imageUrl": "https://30.img.avito.st/image/1/1.ujgdzLa4FtEre5TcZe7qNxBuFNejbZTHK2AU061lHtur.BKPUkVTqeOTVDF5lyZVtpDhx71LXu7JpBunsI1f87nQ"
+    },
+    {
+      "id": "8",
+      "name": "Новый айфон",
+      "price": 100000,
+      "createdAt": "2024-08-12T12:16:55.351Z",
+      "views": 200000,
+      "likes": 302,
+      "imageUrl": "https://30.img.avito.st/image/1/1.3uYsdLa4cg8a3bAKHBeB7xXVcAmS1fAHWtBwDZzdegWa.S0tAuF2I3Rv2P9gu_u1DFGX1vk52eMhCHT7PHBP_zvU"
+    },
+    {
+      "id": "11",
+      "name": "Стул старинный люкс",
+      "description": "Очень красивый",
+      "price": 2000,
+      "createdAt": "2022-08-12T20:16:55.351Z",
+      "views": 20,
+      "likes": 2,
+      "imageUrl": "https://70.img.avito.st/image/1/1.vTTK3ba4Ed38dNPYvOekaL1_E9t0fJPVvHkT33p0Gdd8.2UX2vn5jKzlYpW9AQ9irtff6VBhcg6Ym_XBSpBchrdE"
+    },
+    {
+      "id": "12",
+      "name": "Ведро снега люкс",
+      "description": "Последняя возможность купить по выгодной цене!",
+      "price": 3000,
+      "createdAt": "2023-08-12T20:16:55.351Z",
+      "views": 77832,
+      "likes": 45666,
+      "imageUrl": "https://10.img.avito.st/image/1/1.uLei7La5FF6URdZb3s7WlgZPElQWzxycE08WWh5FHlw.aodZdlDSKwWU8oOx5kEjBgc69PXp39aU3J1JZZgkCUA"
+    },
+    {
+      "id": "13",
+      "name": "Плащ невидимка Гарри Поттера",
+      "price": 10000000,
+      "createdAt": "2024-08-12T20:16:55.351Z",
+      "views": 900,
+      "likes": 19,
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": "14",
+      "name": "Ковер люкс",
+      "description": "Стильный модный, как у бабушки в деревне :)))",
+      "price": 5000,
+      "createdAt": "2024-07-12T20:16:55.351Z",
+      "views": 2000000,
+      "likes": 2,
+      "imageUrl": "https://30.img.avito.st/image/1/1.6ktq3ra4RqJcacSvMuGzM2F8RKTUf8S0XHJEoNp3Tqjc.e8JGMc9guYaR2e4cnEnJC9XYJlfxDnG1Z4NZMlTtRtA"
+    },
+    {
+      "id": "15",
+      "name": "Носки люкс",
+      "price": 6000,
+      "createdAt": "2024-06-12T20:16:55.351Z",
+      "views": 0,
+      "likes": 0,
+      "imageUrl": "https://40.img.avito.st/image/1/1.1G1QGra4eIRmrfqJdHX-Una7eoLuu_qSZrZ6huCzcI7m._yy0QSUD--GNYzEyBdsiDhqaZqVdthm_C5WmmC-8evU"
+    },
+    {
+      "id": "16",
+      "name": "Картонная коробка люкс",
+      "description": "Прочная",
+      "price": 7000,
+      "createdAt": "2024-04-12T20:16:55.351Z",
+      "views": 1,
+      "likes": 0,
+      "imageUrl": "https://10.img.avito.st/image/1/1.tyvHQ7a4G8Lx9JnPpVWXDOHiGcR54pnU8e8ZwHfqE8hx.0mM7WQcRQ1wtS5wVcEJ_w2xx-WxPybsLLk4GK3jUZ5k"
+    },
+    {
+      "id": "17",
+      "name": "Угловой диван люкс",
+      "description": "Стих для привлечения внимания: дама сдавала в багаж диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. выдали даме на станции четыре зеленых квитанции о том, что получен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. вещи везут на перрон. кидают в открытый вагон. готово. уложен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. но только раздался звонок, удрал из вагона щенок. хватились на станции дно: потеряно место одно. в испуге считают багаж: диван, чемодан, саквояж, картина, корзина, картонка… — товарищи! где собачонка? вдруг видят: стоит у колес огромный взъерошенный пес. поймали его — и в багаж, туда, где лежал саквояж, картина, корзина, картонка, где прежде была собачонка. приехали в город житомир. носильщик пятнадцатый номер везет на тележке багаж: диван, чемодан, саквояж, картину, корзину, картонку, а сзади ведут собачонку. собака-то как зарычит, а барыня как закричит: — разбойники! воры! уроды! собака — не той породы! швырнула она чемодан, ногой отпихнула диван, картину, корзину, картонку… — отдайте мою собачонку! — позвольте, мамаша! на станции, согласно багажной квитанции, от вас получили багаж: диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. однако за время пути собака могла подрасти!",
+      "price": 999,
+      "createdAt": "2024-08-12T14:16:55.351Z",
+      "views": 20000,
+      "likes": 1,
+      "imageUrl": "https://30.img.avito.st/image/1/1.ujgdzLa4FtEre5TcZe7qNxBuFNejbZTHK2AU061lHtur.BKPUkVTqeOTVDF5lyZVtpDhx71LXu7JpBunsI1f87nQ"
+    },
+    {
+      "id": "18",
+      "name": "Новый айфон люкс",
+      "price": 100000,
+      "createdAt": "2024-08-12T12:16:55.351Z",
+      "views": 200000,
+      "likes": 302,
+      "imageUrl": "https://30.img.avito.st/image/1/1.3uYsdLa4cg8a3bAKHBeB7xXVcAmS1fAHWtBwDZzdegWa.S0tAuF2I3Rv2P9gu_u1DFGX1vk52eMhCHT7PHBP_zvU"
+    },
+    {
+      "id": "21",
+      "name": "Стул старинный от производителя",
+      "description": "Очень красивый",
+      "price": 2000,
+      "createdAt": "2022-08-12T20:16:55.351Z",
+      "views": 20,
+      "likes": 2,
+      "imageUrl": "https://10.img.avito.st/image/1/1.7paSP7a4Qn-kiMBywhzq-7yeQHksnsBppJNAfSKWSnUk.Cu51fGPFWuLy4EyUNVsc7hluhhr_7cYW69jAb2aE-e4"
+    },
+    {
+      "id": "22",
+      "name": "Ведро снега от производителя",
+      "description": "Последняя возможность купить по выгодной цене!",
+      "price": 3000,
+      "createdAt": "2023-08-12T20:16:55.351Z",
+      "views": 77832,
+      "likes": 45666,
+      "imageUrl": "https://10.img.avito.st/image/1/1.uLei7La5FF6URdZb3s7WlgZPElQWzxycE08WWh5FHlw.aodZdlDSKwWU8oOx5kEjBgc69PXp39aU3J1JZZgkCUA"
+    },
+    {
+      "id": "23",
+      "name": "Плащ невидимка от производителя",
+      "price": 10000000,
+      "createdAt": "2024-08-12T20:16:55.351Z",
+      "views": 900,
+      "likes": 19,
+      "imageUrl": ""
+    },
+    {
+      "id": "24",
+      "name": "Ковер от производителя",
+      "description": "Стильный модный, как у бабушки в деревне :)))",
+      "price": 5000,
+      "createdAt": "2024-07-12T20:16:55.351Z",
+      "views": 2000000,
+      "likes": 2,
+      "imageUrl": "https://30.img.avito.st/image/1/1.6ktq3ra4RqJcacSvMuGzM2F8RKTUf8S0XHJEoNp3Tqjc.e8JGMc9guYaR2e4cnEnJC9XYJlfxDnG1Z4NZMlTtRtA"
+    },
+    {
+      "id": "25",
+      "name": "Носки",
+      "price": 6000,
+      "createdAt": "2024-06-12T20:16:55.351Z",
+      "views": 0,
+      "likes": 0,
+      "imageUrl": "https://40.img.avito.st/image/1/1.1G1QGra4eIRmrfqJdHX-Una7eoLuu_qSZrZ6huCzcI7m._yy0QSUD--GNYzEyBdsiDhqaZqVdthm_C5WmmC-8evU"
+    },
+    {
+      "id": "26",
+      "name": "Картонная коробка от производителя",
+      "description": "Прочная",
+      "price": 7000,
+      "createdAt": "2024-04-12T20:16:55.351Z",
+      "views": 1,
+      "likes": 0,
+      "imageUrl": "https://10.img.avito.st/image/1/1.tyvHQ7a4G8Lx9JnPpVWXDOHiGcR54pnU8e8ZwHfqE8hx.0mM7WQcRQ1wtS5wVcEJ_w2xx-WxPybsLLk4GK3jUZ5k"
+    },
+    {
+      "id": "27",
+      "name": "Угловой диван от производителя",
+      "description": "Стих для привлечения внимания: дама сдавала в багаж диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. выдали даме на станции четыре зеленых квитанции о том, что получен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. вещи везут на перрон. кидают в открытый вагон. готово. уложен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. но только раздался звонок, удрал из вагона щенок. хватились на станции дно: потеряно место одно. в испуге считают багаж: диван, чемодан, саквояж, картина, корзина, картонка… — товарищи! где собачонка? вдруг видят: стоит у колес огромный взъерошенный пес. поймали его — и в багаж, туда, где лежал саквояж, картина, корзина, картонка, где прежде была собачонка. приехали в город житомир. носильщик пятнадцатый номер везет на тележке багаж: диван, чемодан, саквояж, картину, корзину, картонку, а сзади ведут собачонку. собака-то как зарычит, а барыня как закричит: — разбойники! воры! уроды! собака — не той породы! швырнула она чемодан, ногой отпихнула диван, картину, корзину, картонку… — отдайте мою собачонку! — позвольте, мамаша! на станции, согласно багажной квитанции, от вас получили багаж: диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. однако за время пути собака могла подрасти!",
+      "price": 999,
+      "createdAt": "2024-08-12T14:16:55.351Z",
+      "views": 20000,
+      "likes": 1,
+      "imageUrl": "https://30.img.avito.st/image/1/1.ujgdzLa4FtEre5TcZe7qNxBuFNejbZTHK2AU061lHtur.BKPUkVTqeOTVDF5lyZVtpDhx71LXu7JpBunsI1f87nQ"
+    },
+    {
+      "id": "28",
+      "name": "Новый айфон от производителя",
+      "price": 100000,
+      "createdAt": "2024-08-12T12:16:55.351Z",
+      "views": 200000,
+      "likes": 302,
+      "imageUrl": "https://30.img.avito.st/image/1/1.3uYsdLa4cg8a3bAKHBeB7xXVcAmS1fAHWtBwDZzdegWa.S0tAuF2I3Rv2P9gu_u1DFGX1vk52eMhCHT7PHBP_zvU"
+    },
+    {
+      "id": "31",
+      "name": "Стул старинный с доставкой",
+      "description": "Очень красивый",
+      "price": 2000,
+      "createdAt": "2022-08-12T20:16:55.351Z",
+      "views": 20,
+      "likes": 2,
+      "imageUrl": "https://10.img.avito.st/image/1/1.7paSP7a4Qn-kiMBywhzq-7yeQHksnsBppJNAfSKWSnUk.Cu51fGPFWuLy4EyUNVsc7hluhhr_7cYW69jAb2aE-e4"
+    },
+    {
+      "id": "32",
+      "name": "Ведро снега с доставкой",
+      "description": "Последняя возможность купить по выгодной цене!",
+      "price": 3000,
+      "createdAt": "2023-08-12T20:16:55.351Z",
+      "views": 77832,
+      "likes": 45666,
+      "imageUrl": "https://10.img.avito.st/image/1/1.uLei7La5FF6URdZb3s7WlgZPElQWzxycE08WWh5FHlw.aodZdlDSKwWU8oOx5kEjBgc69PXp39aU3J1JZZgkCUA"
+    },
+    {
+      "id": "33",
+      "name": "Плащ невидимка с доставкой",
+      "price": 10000000,
+      "createdAt": "2024-08-12T20:16:55.351Z",
+      "views": 900,
+      "likes": 19,
+      "imageUrl": ""
+    },
+    {
+      "id": "34",
+      "name": "Ковер с доставкой",
+      "description": "Стильный модный, как у бабушки в деревне :)))",
+      "price": 5000,
+      "createdAt": "2024-07-12T20:16:55.351Z",
+      "views": 2000000,
+      "likes": 2,
+      "imageUrl": "https://30.img.avito.st/image/1/1.6ktq3ra4RqJcacSvMuGzM2F8RKTUf8S0XHJEoNp3Tqjc.e8JGMc9guYaR2e4cnEnJC9XYJlfxDnG1Z4NZMlTtRtA"
+    },
+    {
+      "id": "35",
+      "name": "Носки с доставкой",
+      "price": 6000,
+      "createdAt": "2024-06-12T20:16:55.351Z",
+      "views": 0,
+      "likes": 0,
+      "imageUrl": "https://40.img.avito.st/image/1/1.1G1QGra4eIRmrfqJdHX-Una7eoLuu_qSZrZ6huCzcI7m._yy0QSUD--GNYzEyBdsiDhqaZqVdthm_C5WmmC-8evU"
+    },
+    {
+      "id": "36",
+      "name": "Картонная коробка с доставкой",
+      "description": "Прочная",
+      "price": 7000,
+      "createdAt": "2024-04-12T20:16:55.351Z",
+      "views": 1,
+      "likes": 0,
+      "imageUrl": "https://10.img.avito.st/image/1/1.tyvHQ7a4G8Lx9JnPpVWXDOHiGcR54pnU8e8ZwHfqE8hx.0mM7WQcRQ1wtS5wVcEJ_w2xx-WxPybsLLk4GK3jUZ5k"
+    },
+    {
+      "id": "37",
+      "name": "Угловой диван с доставкой",
+      "description": "Стих для привлечения внимания: дама сдавала в багаж диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. выдали даме на станции четыре зеленых квитанции о том, что получен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. вещи везут на перрон. кидают в открытый вагон. готово. уложен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. но только раздался звонок, удрал из вагона щенок. хватились на станции дно: потеряно место одно. в испуге считают багаж: диван, чемодан, саквояж, картина, корзина, картонка… — товарищи! где собачонка? вдруг видят: стоит у колес огромный взъерошенный пес. поймали его — и в багаж, туда, где лежал саквояж, картина, корзина, картонка, где прежде была собачонка. приехали в город житомир. носильщик пятнадцатый номер везет на тележке багаж: диван, чемодан, саквояж, картину, корзину, картонку, а сзади ведут собачонку. собака-то как зарычит, а барыня как закричит: — разбойники! воры! уроды! собака — не той породы! швырнула она чемодан, ногой отпихнула диван, картину, корзину, картонку… — отдайте мою собачонку! — позвольте, мамаша! на станции, согласно багажной квитанции, от вас получили багаж: диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. однако за время пути собака могла подрасти!",
+      "price": 999,
+      "createdAt": "2024-08-12T14:16:55.351Z",
+      "views": 20000,
+      "likes": 1,
+      "imageUrl": "https://30.img.avito.st/image/1/1.ujgdzLa4FtEre5TcZe7qNxBuFNejbZTHK2AU061lHtur.BKPUkVTqeOTVDF5lyZVtpDhx71LXu7JpBunsI1f87nQ"
+    },
+    {
+      "id": "38",
+      "name": "Новый айфон с доставкой",
+      "price": 100000,
+      "createdAt": "2024-08-12T12:16:55.351Z",
+      "views": 200000,
+      "likes": 302,
+      "imageUrl": "https://30.img.avito.st/image/1/1.3uYsdLa4cg8a3bAKHBeB7xXVcAmS1fAHWtBwDZzdegWa.S0tAuF2I3Rv2P9gu_u1DFGX1vk52eMhCHT7PHBP_zvU"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "status": 0,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "",
+      "total": 314000,
+      "deliveryWay": "mail",
+      "items": [
+        {
+          "id": "8",
+          "name": "Новый айфон",
+          "price": 100000,
+          "createdAt": "2024-08-12T12:16:55.351Z",
+          "views": 200000,
+          "likes": 302,
+          "imageUrl": "",
+          "count": 3
+        },
+        {
+          "id": "6",
+          "name": "Картонная коробка",
+          "description": "Прочная",
+          "price": 7000,
+          "createdAt": "2024-04-12T20:16:55.351Z",
+          "views": 1,
+          "likes": 0,
+          "imageUrl": "",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "status": 4,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "2024-08-12T20:25:55.351Z",
+      "total": 33000,
+      "deliveryWay": "sdek",
+      "items": [
+        {
+          "id": "2",
+          "name": "Ведро снега",
+          "description": "Последняя возможность купить по выгодной цене!",
+          "price": 3000,
+          "createdAt": "2023-08-12T20:16:55.351Z",
+          "views": 77832,
+          "likes": 45666,
+          "imageUrl": "",
+          "count": 10
+        },
+        {
+          "id": "5",
+          "name": "Носки",
+          "price": 6000,
+          "createdAt": "2024-06-12T20:16:55.351Z",
+          "views": 0,
+          "likes": 0,
+          "imageUrl": "",
+          "count": 5
+        }
+      ]
+    }
+  ]
+}
